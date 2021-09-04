@@ -1,0 +1,22 @@
+.movie{
+    background-color: rgb(25, 25, 90);
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+}
+
+
+.movie h2{
+    color: yellow;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.movie h3{
+    color: yellowgreen;
+    font-size: 1.2rem;
+}
