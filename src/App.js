@@ -59,7 +59,7 @@ const App =()=>{
 
 useEffect(()=>{
 movieHandler()
-},[])
+},[movieHandler])
 
 
 
